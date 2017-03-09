@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2014 ViewInMobile Technology co,Ltd.
+    All rights, including trade secret rights, reserved.
+    ?attr/actionBarSize
+-->
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/colorPrimary"
+    android:minHeight="50dp"
+    app:contentInsetLeft="0dp"
+    app:contentInsetStart="0dp"
+    app:layout_scrollFlags="scroll|enterAlways|snap"
+    app:theme="@style/ToolBarStyle">
+
+
+
+
+</android.support.v7.widget.Toolbar>
